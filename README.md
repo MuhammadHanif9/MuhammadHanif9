@@ -20,7 +20,8 @@ Java, Python, C/C++, Assembly language
  Google Colab, YOLO, VS Code, Visual Studio, PyCharm, Packet Tracer, Arduino IDE
 # Libraries:
 Pandas, NumPy, Matplotlib
-I am excited to share my projects and collaborate on innovative solutions. Feel free to explore my repositories and connect with me on
+I am excited to share my projects and collaborate on innovative solutions. Feel free to explore my repositories and connect with me on w.ww.linkedin.com/in/hanif-khan-209525242.
+
 
 <!---
 MuhammadHanif9/MuhammadHanif9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
